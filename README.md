@@ -1,2 +1,2 @@
 # assignment-1
-Github assignment
+I love :coffee: :pizza:, and :dancer:.
